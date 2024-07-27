@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb1b6c17-25ca-4d6f-a4bb-0d9ea5d94c7a" name="Changes" comment="" />
+    <list default="true" id="fb1b6c17-25ca-4d6f-a4bb-0d9ea5d94c7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8_m1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/logic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/logic/RPG_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Berserk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/GameEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/HavingSuperAbility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Magic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Medic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/SuperAbility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Witcher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/01695f85-2152-4c87-9624-2b44d80dede8_lesson_8.zip.de8/lesson_8/src/kg/geeks/game/players/Hero.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/0a245276-b6e3-4a71-b52d-2dcdcdbed2af_lesson_8.zip.2af/lesson_8/src/kg/geeks/game/logic/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/115ab67d-47c2-46cf-a052-b4dcca7f0ef3_lesson_8.zip.ef3/lesson_8/src/kg/geeks/game/players/Magic.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/adfc6123-eef8-4f63-acde-feb3c2ec5f23_lesson_8.zip.f23/lesson_8/src/kg/geeks/game/players/Boss.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/dfe7f907-6610-4a3f-8d2b-efcb8ef4919a_lesson_8.zip.19a/lesson_8/src/kg/geeks/game/logic/RPG_Game.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/e1abb830-40e8-4194-afa7-e92720f709bd_lesson_8.zip.9bd/lesson_8/src/kg/geeks/game/players/Warrior.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/ffef8330-616b-4e77-8e78-876bd306f7f9_lesson_8.zip.7f9/lesson_8/src/kg/geeks/game/players/GameEntity.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2joohKqVvtmj9JrrV1W389LunRg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +64,9 @@
     "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/hw8_m1/src/Main.java"
   }
 }]]></component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,16 +77,5 @@
       <updated>1722062909781</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
